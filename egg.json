@@ -1,0 +1,25 @@
+{
+  "$schema": "https://x.nest.land/eggs@0.3.10/src/schema.json",
+  "name": "lanternfish",
+  "entry": "./src/mod.ts",
+  "description": "A minimalistic Discord API library built on Harmony",
+  "homepage": "https://itsthewhale.github.io/lanternfish",
+  "version": "0.0.0",
+  "releaseType": null,
+  "unstable": false,
+  "unlisted": false,
+  "files": [
+    "./mod.ts",
+    "./src/**",
+    "./deps.ts",
+    "./README.md",
+    "./LICENSE"
+  ],
+  "ignore": [
+    ".git"
+  ],
+  "checkFormat": true,
+  "checkTests": false,
+  "checkInstallation": false,
+  "check": true
+}
